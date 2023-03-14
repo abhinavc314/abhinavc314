@@ -12,7 +12,7 @@
 <a href="#">
   <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="mailto:sachinhiet00786@gmail.com">
+<a href="mailto:abhinavc314@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 <img src="https://gpvc.arturio.dev/dexter00786" />
