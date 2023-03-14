@@ -15,7 +15,7 @@
 <a href="mailto:abhinavc314@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-<img src="https://gpvc.arturio.dev/dexter00786" />
+<img src="https://gpvc.arturio.dev/abhinavc314" />
 </p>
 <p align='center'><a href="https://github.com/iampawan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexter00786&theme=dark&hide_langs_below=1" />
