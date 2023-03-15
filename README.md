@@ -18,7 +18,7 @@
 <img src="https://gpvc.arturio.dev/abhinavc314" />
 </p>
 <p align='center'><a href="https://github.com/abhinavc314">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexter00786&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavc314&theme=dark&hide_langs_below=1" />
 </a></p>
 
 <p align='center'>
